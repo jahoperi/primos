@@ -203,7 +203,7 @@ st.subheader('')
 st.subheader('')
 
 #st_player("https://www.youtube.com/watch?v=Lk7I5Qqo95U")
-st_player("https://drive.google.com/file/d/1Zee9sz9crLcpF6U5UVUyx0FHXo5Ushpp/view?usp=sharing")
+st_player("https://www.dailymotion.com/embed/video/x89crz9?autoplay=1")
 st.subheader('')
 st.subheader('')
 st.header('JAVIER HORACIO PEREZ RICARDEZ') 
