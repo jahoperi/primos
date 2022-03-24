@@ -201,6 +201,11 @@ show_pdf("papaer-1.pdf")
 
 st.subheader('')
 st.subheader('')
+
+st_player("https://www.youtube.com/watch?v=Lk7I5Qqo95U")
+
+st.subheader('')
+st.subheader('')
 st.header('JAVIER HORACIO PEREZ RICARDEZ') 
 st.subheader('')  
 st.subheader('Maestría en Ciencias de la Computación') 
