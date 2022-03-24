@@ -161,7 +161,7 @@ st.subheader('(A1 U A2 U A3 U A4 U A5) = {8, 10, 12, 14, 16, 18, 20, 22, 24, 26,
 st.subheader('')
 st.subheader('Entonces, ya podemos concluir')
 st.subheader('')
-st.subheader('|W| = ∞ = |(A1 U A2 U A3 U A4 U A4)|, si |A1| = ∞, |A2| = ∞, |A3| = ∞, |A4| = ∞ y |A5| = ∞ ')
+st.subheader('|W| = ∞ = |(A1 U A2 U A3 U A4 U A5)|, si |A1| = ∞, |A2| = ∞, |A3| = ∞, |A4| = ∞ y |A5| = ∞ ')
 st.subheader('')
 st.subheader('Como')
 st.subheader('')
