@@ -12,6 +12,9 @@ import streamlit as st
 from streamlit_lottie import st_lottie  # pip install streamlit-lottie
 import streamlit.components.v1 as components
 import requests  # pip install requests
+import base64
+
+
 
 def load_lottieurl(url: str):
     r = requests.get(url)
