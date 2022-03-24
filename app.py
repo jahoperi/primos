@@ -13,7 +13,7 @@ from streamlit_lottie import st_lottie  # pip install streamlit-lottie
 import streamlit.components.v1 as components
 import requests  # pip install requests
 import base64
-
+from streamlit_player import st_player
 
 
 def load_lottieurl(url: str):
