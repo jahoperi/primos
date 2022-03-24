@@ -202,8 +202,8 @@ show_pdf("papaer-1.pdf")
 st.subheader('')
 st.subheader('')
 
-st_player("https://www.youtube.com/watch?v=Lk7I5Qqo95U")
-
+#st_player("https://www.youtube.com/watch?v=Lk7I5Qqo95U")
+st_player("https://drive.google.com/file/d/1Zee9sz9crLcpF6U5UVUyx0FHXo5Ushpp/view?usp=sharing")
 st.subheader('')
 st.subheader('')
 st.header('JAVIER HORACIO PEREZ RICARDEZ') 
