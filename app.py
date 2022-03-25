@@ -42,7 +42,7 @@ st.subheader("Consideremos el conjunto W = {2n con n >= 4 en N | 2(4) = 8, 2(5) 
 st.subheader('') 
 st.subheader('Distancia-2') 
 st.subheader('') 
-st.subheader('Consideremos el intervalo [n -1 , n -1]')
+st.subheader('Consideremos el intervalo [n - 1 , n + 1]')
 st.subheader('')
 
 st.subheader('Para:')
